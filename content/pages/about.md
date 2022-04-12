@@ -16,8 +16,6 @@ Im really interested in Data Science, Web and Mobile Apps Development, Cybersecu
 ## ![https://github.com/OlafRuv](https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/Olaf.png) These are the Skills I currently have:
 [![Linux Bash](https://img.shields.io/badge/Linux-ebbb08?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Windows CMD](https://img.shields.io/badge/Windows-2c7fd3?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
-<br><br>
-
 
 [![C++](https://img.shields.io/badge/C++-6295cb?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-f7cc42?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -48,10 +46,13 @@ And more...
 
 [![Instagram](https://img.shields.io/badge/Instagram-@olaf.ruv-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/olaf.ruv)
 <br><br>
+
 [![Facebook](https://img.shields.io/badge/Facebook-@Olaf_Ruvalcabaa-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/olaf.ruvalcabaaguirre)
+
 <img align="right" src="https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/ghost.gif" width="100"><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Olaf_Ruv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/olaf-ruv/)
 <br><br>
+
 [![Web](https://img.shields.io/badge/My_Website-PaginaEnConstruccion.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://github.com/OlafRuv)
 
 ## Contact me:

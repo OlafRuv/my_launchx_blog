@@ -5,6 +5,7 @@ description: 'En este blog post hablo de una de las herramientas que más me han
 ---
 
 ## Hola, de nuevo! 👋
+![odem](/post-gifs/163035030-6f153798-21bd-41a1-a209-d0106e7c550a.gif)
 <img align="right" width="200"  src="/post-gifs/163035030-6f153798-21bd-41a1-a209-d0106e7c550a.gif"></br>
 En este post hablaré un poco sobre una de las herramientas que más me ha ayudado al momento de aprender algún lenguaje <br>
 Se trata nada más y nada menos que de los **CHEATSHEETS**

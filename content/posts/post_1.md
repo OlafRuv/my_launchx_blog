@@ -19,7 +19,7 @@ El acto de preparar tales notas de referencia puede ser un ejercicio educativo e
 Es por esto que incluso algunas universidades publican pautas para la creación de hojas de trucos.
 <br>
 <p align="center">
-  <img width="400"  src="/static/post-gifs/163036540-bd563e30-1e7b-4ff2-9dec-2f470631b25e.gif">
+  <img width="400"  src="/post-gifs/163036540-bd563e30-1e7b-4ff2-9dec-2f470631b25e.gif">
 </p>
 
 ### Ahora, ¿Como usarlas?
@@ -53,7 +53,7 @@ Es por esto que incluso algunas universidades publican pautas para la creación 
   
   
 <p align="center">
-  <img width="400"  src="/static/post-gifs/163038723-eb7a7a6b-81eb-42cc-bcba-02e5a7aeac2e.gif">
+  <img width="400"  src="/post-gifs/163038723-eb7a7a6b-81eb-42cc-bcba-02e5a7aeac2e.gif">
 </p>
 
 ### Referencias

@@ -5,11 +5,11 @@ description: 'En este blog post hablo de una de las herramientas que más me han
 ---
 
 ## Hola, de nuevo! 👋
-![odem](/post-gifs/163035030-6f153798-21bd-41a1-a209-d0106e7c550a.gif)
-<img align="right" width="200"  src="/post-gifs/163035030-6f153798-21bd-41a1-a209-d0106e7c550a.gif"></br>
 En este post hablaré un poco sobre una de las herramientas que más me ha ayudado al momento de aprender algún lenguaje <br>
 Se trata nada más y nada menos que de los **CHEATSHEETS**
 Que como su nombre lo dice, se trata de una hoja de trucos la cual es un conjunto conciso de notas que se utilizan como referencia rápida. 
+
+![demo](/post-gifs/163035030-6f153798-21bd-41a1-a209-d0106e7c550a.gif =250x)
 
 ### Pero ¿No se refiere esto a hacer trampa 👀?
 Por el contratio históricamente, los estudiantes sin un instructor o el conocimiento del maestro usaban las hojas de trucos para hacer trampa en una prueba o examen.<br>
@@ -18,10 +18,8 @@ Aunque en el contexto de la educación superior o la formación profesional, don
 El acto de preparar tales notas de referencia puede ser un ejercicio educativo en sí mismo, en cuyo caso los estudiantes pueden estar restringidos a usar solo las notas de referencia que han desarrollado ellos mismos.<br>
 
 Es por esto que incluso algunas universidades publican pautas para la creación de hojas de trucos.
-<br>
-<p align="center">
-  <img width="400"  src="/post-gifs/163036540-bd563e30-1e7b-4ff2-9dec-2f470631b25e.gif">
-</p>
+
+![demo](/post-gifs/163036540-bd563e30-1e7b-4ff2-9dec-2f470631b25e.gif =400x)
 
 ### Ahora, ¿Como usarlas?
 
@@ -52,7 +50,8 @@ Es por esto que incluso algunas universidades publican pautas para la creación 
   - [VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
   - [MarkDown](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0)
   
-  
+![demo](/post-gifs/163038723-eb7a7a6b-81eb-42cc-bcba-02e5a7aeac2e.gif =250x)  
+
 <p align="center">
   <img width="400"  src="/post-gifs/163038723-eb7a7a6b-81eb-42cc-bcba-02e5a7aeac2e.gif">
 </p>

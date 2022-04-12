@@ -5,7 +5,7 @@ description: 'En este blog post hablo de una de las herramientas que más me han
 ---
 
 ## Hola, de nuevo! 👋
-<img align="right" width="200"  src="https://user-images.githubusercontent.com/62526919/163035030-6f153798-21bd-41a1-a209-d0106e7c550a.gif"></br>
+<img align="right" width="200"  src="/static/post-gifs/163035030-6f153798-21bd-41a1-a209-d0106e7c550a.gif"></br>
 En este post hablaré un poco sobre una de las herramientas que más me ha ayudado al momento de aprender algún lenguaje <br>
 Se trata nada más y nada menos que de los **CHEATSHEETS**
 Que como su nombre lo dice, se trata de una hoja de trucos la cual es un conjunto conciso de notas que se utilizan como referencia rápida. 
@@ -13,11 +13,13 @@ Que como su nombre lo dice, se trata de una hoja de trucos la cual es un conjunt
 ### Pero ¿No se refiere esto a hacer trampa 👀?
 Por el contratio históricamente, los estudiantes sin un instructor o el conocimiento del maestro usaban las hojas de trucos para hacer trampa en una prueba o examen.<br>
 Aunque en el contexto de la educación superior o la formación profesional, donde la memorización no es tan importante, se puede permitir e incluso se alienta a los estudiantes a desarrollar y consultar sus propias hojas de trucos durante los exámenes.<br> 
+
 El acto de preparar tales notas de referencia puede ser un ejercicio educativo en sí mismo, en cuyo caso los estudiantes pueden estar restringidos a usar solo las notas de referencia que han desarrollado ellos mismos.<br>
+
 Es por esto que incluso algunas universidades publican pautas para la creación de hojas de trucos.
 <br>
 <p align="center">
-  <img width="400"  src="https://user-images.githubusercontent.com/62526919/163036540-bd563e30-1e7b-4ff2-9dec-2f470631b25e.gif">
+  <img width="400"  src="/static/post-gifs/163036540-bd563e30-1e7b-4ff2-9dec-2f470631b25e.gif">
 </p>
 
 ### Ahora, ¿Como usarlas?
@@ -51,7 +53,7 @@ Es por esto que incluso algunas universidades publican pautas para la creación 
   
   
 <p align="center">
-  <img width="400"  src="https://user-images.githubusercontent.com/62526919/163038723-eb7a7a6b-81eb-42cc-bcba-02e5a7aeac2e.gif">
+  <img width="400"  src="/static/post-gifs/163038723-eb7a7a6b-81eb-42cc-bcba-02e5a7aeac2e.gif">
 </p>
 
 ### Referencias

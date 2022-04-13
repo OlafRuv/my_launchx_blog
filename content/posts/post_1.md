@@ -1,6 +1,6 @@
 ---
 title: "CheatSheets, tus mejores amigos para aprender"
-date: 2022-03-01
+date: 2022-04-11
 description: 'En este blog post hablo de una de las herramientas que más me han ayudado para aprender rapidamente algún tema'
 ---
 
@@ -10,7 +10,8 @@ Se trata nada más y nada menos que de los **CHEATSHEETS**
 Que como su nombre lo dice, se trata de una hoja de trucos la cual es un conjunto conciso de notas que se utilizan como referencia rápida. 
 
 ### Pero ¿No se refiere esto a hacer trampa 👀?
-Por el contratio históricamente, los estudiantes sin un instructor o el conocimiento del maestro usaban las hojas de trucos para hacer trampa en una prueba o examen.<br>
+Por el contratio históricamente, los estudiantes sin un instructor o el conocimiento del maestro usaban las hojas de trucos para hacer trampa en una prueba o examen.
+
 Aunque en el contexto de la educación superior o la formación profesional, donde la memorización no es tan importante, se puede permitir e incluso se alienta a los estudiantes a desarrollar y consultar sus propias hojas de trucos durante los exámenes.<br> 
 
 El acto de preparar tales notas de referencia puede ser un ejercicio educativo en sí mismo, en cuyo caso los estudiantes pueden estar restringidos a usar solo las notas de referencia que han desarrollado ellos mismos.<br>
